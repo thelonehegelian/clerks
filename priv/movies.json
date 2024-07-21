@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "rating": "9.3",
+      "genre": "Drama",
+      "year": 1994,
+      "is_rented": false,
+      "rental_date": ""
+    },
+    {
+      "title": "The Godfather",
+      "rating": "9.2",
+      "genre": "Crime",
+      "year": 1972,
+      "is_rented": true,
+      "rental_date": "2022-10-15"
+    }
+  ]
+}
